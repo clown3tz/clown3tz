@@ -13,8 +13,8 @@ I'm Clownetz A.K.A Supa a typical computer geek currently studying Python.
 [![Discord Badge](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white=https://discordapp.com/users/759432125685563412)](https://discordapp.com/users/759432125685563412)
 ___
 - 🖥 I’m currently not working anywhere
-- 📫 How to reach me: Clown3tz@gmail.com
 - 👾 I play games at exam nights nerds
+- 📫 How to reach me: Clown3tz@gmail.com
 ___
 ### Things I Know:
 ![AdobePhotoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
