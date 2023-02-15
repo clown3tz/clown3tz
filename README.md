@@ -1,8 +1,7 @@
-## - Hi I'm Clownetz <img src="https://media.giphy.com/media/LmBfos5NJtsf9WTpSe/giphy.gif" width="28px" alt="hi">
+## - Hi I'm Clownetz 
 
 I'm Clownetz A.K.A Supa a typical computer geek currently studying Python.
 
-<img src="https://media.giphy.com/media/qMkVu81wLKbcI/giphy.gif" width="50px" alt="hi">
 
 🤙🏼 Reach me out!
 
