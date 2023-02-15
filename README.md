@@ -1,6 +1,6 @@
 ## - Hi I'm Clownetz 
 
-I'm Clownetz A.K.A Supa a typical computer geek currently studying Python.
+I'm Clownetz a typical computer geek currently studying Python.
 
 
 🤙🏼 Reach me out!
