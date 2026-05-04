@@ -12,4 +12,3 @@ ___
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ___
-![Github Stats](https://github-readme-stats.vercel.app/api?username=clown3tz&count_private=true&show_icons=true&include_all_commits=true&theme=great-gatsby)
